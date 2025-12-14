@@ -1,5 +1,9 @@
 # 💫 About Me:
-Passionate Software Engineering student with a strong focus on the MERN (MongoDB, Express.js, React, Node.js) stack. Skilled in developing scalable and efficient web applications using Express.js and React, with a solid foundation in React.js. I am constantly driven to enhance my skills and stay updated with the latest technologies and best practices.<br><br>With a growing proficiency in React Native, I am capable of developing cross-platform mobile apps and adapting to new challenges.<br><br>In addition to my expertise in MERN, I am eager to explore Next.js for building powerful and scalable Frontend applications. <br><br>Throughout my academic journey, I have acquired a deep understanding of software engineering principles and practices, allowing me to design scalable and efficient solutions.<br><br>I am actively seeking opportunities to apply my skills and contribute to innovative projects. Whether it's through an internship or any other collaborative venture, I am excited to work alongside experienced professionals and contribute to real-world challenges.
+Software Engineer experienced in building scalable web applications using React, Next.js, Node.js, Express.js, and MongoDB. Strong focus on clean architecture, performance optimization, and efficient system design.
+
+Hands-on experience with Next.js for modern, SEO-optimized frontend applications and Node.js for building reliable backend services and APIs. Actively working on AI-driven solutions, including LangChain, AI agents, and intelligent automation.
+
+Graduated in Software Engineering with a solid foundation in system design, scalability, and modern engineering practices. Passionate about solving real-world problems and contributing to innovative, high-impact products.
 
 
 ## 🌐 Socials:
